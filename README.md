@@ -6,19 +6,6 @@ This project demonstrates how **risk analytics** can be applied in the **banking
 
 ---
 
-## 📂 About the Dataset
-
-The dataset contains multiple interconnected tables:
-- `Clients - Banking`
-- `Banking Relationship`
-- `Gender`
-- `Investment Advisor`
-- `Period`
-
-These tables are linked using **Primary** and **Foreign Keys**, representing detailed information about clients, accounts, and transactions.
-
----
-
 ## 🧹 Data Cleaning & Preparation
 
 - Created `Engagement Timeframe` column to represent client-bank duration.
